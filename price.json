@@ -1,0 +1,8 @@
+{
+  "items": [
+    {
+      "name": "data:post.title",
+      "price": "${{price}}"
+    }
+  ]
+}
